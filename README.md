@@ -5,3 +5,6 @@ Windows Bat File to automate CSS development workflow
 - [Caddy Server](https://caddyserver.com/)
 - [Live reload](http://livereload.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
+
+__todo__
+- Create config file
